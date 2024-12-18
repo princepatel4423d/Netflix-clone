@@ -2,6 +2,10 @@
 
 This is a simple Netflix clone built using HTML, CSS, and JavaScript. The project mimics the basic layout and design of Netflix's homepage, showcasing a responsive user interface with interactive features.
 
+## Live Demo
+
+Check out the live demo of the project [here](https://codepen.io/cemeimem-the-builder/pen/EaYWZBY).
+
 ## Technologies Used
 
 - **HTML**: Structure of the webpage.
@@ -20,7 +24,7 @@ This is a simple Netflix clone built using HTML, CSS, and JavaScript. The projec
    ```
 2. Open the project folder:
    ```bash
-   cd netflix-clone
+   cd netflix-clone-website
    ```
 3. Open `index.html` in your browser to view the project.
 
