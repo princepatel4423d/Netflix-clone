@@ -4,7 +4,7 @@ This is a simple Netflix clone built using HTML, CSS, and JavaScript. The projec
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://codepen.io/cemeimem-the-builder/pen/EaYWZBY).
+Check out the live demo of the project [here](https://princepatel4423d.github.io/netflix-clone-website/).
 
 ## Technologies Used
 
