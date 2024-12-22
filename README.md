@@ -2,9 +2,12 @@
 
 This is a simple Netflix clone built using HTML, CSS, and JavaScript. The project mimics the basic layout and design of Netflix's homepage, showcasing a responsive user interface with interactive features.
 
+## 
+
+
 ## Live Demo
 
-Check out the live demo of the project [here](https://princepatel4423d.github.io/netflix-clone-website/).
+Check out the live demo of the project [here](https://princepatel4423d.github.io/Netflix-clone/).
 
 ## Technologies Used
 
@@ -20,11 +23,11 @@ Check out the live demo of the project [here](https://princepatel4423d.github.io
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/princepatel4423d/netflix-clone-website.git
+   git clone https://github.com/princepatel4423d/Netflix-clone.git
    ```
 2. Open the project folder:
    ```bash
-   cd netflix-clone-website
+   cd Netflix-clone
    ```
 3. Open `index.html` in your browser to view the project.
 
